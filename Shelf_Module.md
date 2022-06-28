@@ -11,7 +11,7 @@ character needed. With the Shelf open, text and items can also be
 dragged to and from the Shelf. You can also select an item within the
 Shelf window, and press delete to remove it.
 
-[<file:Shelf_show_contents.png>](file:Shelf_show_contents.png "wikilink")
+![Shelf_show_contents.png>](images/Shelf_show_contents.png "wikilink")
 
 Don't store too many high memory files such as images, as this can cause
 Quicksilver to hang. If you have this problem, quit Quicksilver, delete
@@ -26,7 +26,7 @@ Shelf are Quicksilver telling System Events to use that keystroke.)
 {{#ev:youtube\|7f5stuN5Ag8}}
 
 Install the Shelf Module in Preferences \> Plug-ins.
-[<file:Catalog_Shelf_and_Clipboard_items.png>](file:Catalog_Shelf_and_Clipboard_items.png "wikilink")
+![Catalog_Shelf_and_Clipboard_items.png>](images/Catalog_Shelf_and_Clipboard_items.png "wikilink")
 
 <b>Commands</b>
 
@@ -83,4 +83,4 @@ window into the side of the screen to anchor it.<br />
 </tbody>
 </table>
 
-[<file:Shelf_show_window_1.png>](file:Shelf_show_window_1.png "wikilink")
+![Shelf_show_window_1.png>](images/Shelf_show_window_1.png "wikilink")

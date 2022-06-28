@@ -23,7 +23,7 @@ following:
 -   Click the '+' in the bottom of the Catalog Preferences Window and
     select 'File & Folder Scanner'
 
-![](addcatalog.png "addcatalog.png")
+![](images/addcatalog.png "addcatalog.png")
 
 ### Other Items
 

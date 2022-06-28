@@ -8,14 +8,14 @@ entered via two or three panes containing respectively an Object, an
 Action and if a third pane is needed, an Argument. Actions appear in
 Quicksilver's second pane.
 
-![<File:Command_diagram.png>](Command_diagram.png "File:Command_diagram.png")
+![Command_diagram.png>](images/Command_diagram.png "File:Command_diagram.png")
 
 A preference pane shows all the Actions that can be performed (⌘comma,
 select Actions). Uncheck Actions to remove them from use. Drag Actions
 within the list to improve their priority in the results list in the
 second pane. See [ordering actions](ordering_actions "wikilink").
 
-[<file:Quicksilver_actions_preferences.png>](file:Quicksilver_actions_preferences.png "wikilink")
+![Quicksilver_actions_preferences.png>](images/Quicksilver_actions_preferences.png "wikilink")
 
 Actions can be added by plugins, or by the user in
 \~/Library/Application Support/Quicksilver/Actions. Plugins are optional
@@ -30,7 +30,7 @@ Objects that are URLs. Actions that require an Argument typically end in
 Email to... Actions expect the Argument to be an email address or
 contact.
 
-![<File:URL_first_action.png>](URL_first_action.png "File:URL_first_action.png")
+![URL_first_action.png>](images/URL_first_action.png "File:URL_first_action.png")
 
 ## Usage
 
@@ -70,7 +70,7 @@ Commands like Make New... which have no complement and don’t hint at
 what their Argument type is. (It's a file from \~/Library/Application
 Support/Quicksilver/Templates.)
 
-![<File:Complimentary_actions.png>](Complimentary_actions.png "File:Complimentary_actions.png")
+![Complimentary_actions.png>](images/Complimentary_actions.png "File:Complimentary_actions.png")
 
 ## Advanced tips
 

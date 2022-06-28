@@ -10,9 +10,9 @@ also the subsequent list of actions in the second pane's results list.
 To change the order of actions, select 'Rank' and drag and drop actions
 to the desired place.
 
-![<File:Actions_Rank.png>](Actions_Rank.png "File:Actions_Rank.png")
+![Actions_Rank.png>](images/Actions_Rank.png "File:Actions_Rank.png")
 
 This is only part of the story however, as actions are also grouped by
 object type.
 
-![<File:Actions_by_object.jpg>‎](Actions_by_object.jpg‎ "File:Actions_by_object.jpg‎")
+![Actions_by_object.jpg>‎](images/Actions_by_object.jpg‎ "File:Actions_by_object.jpg‎")

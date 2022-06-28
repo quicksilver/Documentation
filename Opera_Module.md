@@ -8,8 +8,8 @@ anywhere using Quicksilver is broken in ß58 10.6.
 
 The author's
 [Homepage](http://s-softs.com/Projects/QSOpera/index.html)
-![<File:Open> with Opera Action 1
-1.jpg](Open_with_Opera_Action_1_1.jpg "File:Open with Opera Action 1 1.jpg")
+![Open> with Opera Action 1
+1.jpg](images/Open_with_Opera_Action_1_1.jpg "File:Open with Opera Action 1 1.jpg")
 
 ## Preference Items
 

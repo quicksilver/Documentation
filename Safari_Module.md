@@ -6,8 +6,7 @@ Quicksilver to obtain Safari's current URL from any app. Also allows the
 Quicksilver user to right arrow into the Safari app from Pane 1, and
 browse the bookmarks folders that appear when using the 'Show All
 Bookmarks' menu item in Safari.
-![<File:Current> Web Page Proxy Object Safari
-1.jpg](Current_Web_Page_Proxy_Object_Safari_1.jpg "File:Current Web Page Proxy Object Safari 1.jpg")
+![Current Web Page Proxy Object Safari 1.jpg]((images/Current_Web_Page_Proxy_Object_Safari_1.jpg "File:Current Web Page Proxy Object Safari 1.jpg)
 
 ## Preference Items
 

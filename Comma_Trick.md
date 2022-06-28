@@ -23,7 +23,7 @@ To select items from anywhere in the QS Catalog:
 Invoke QS, search for a cataloged item, press comma, and search for
 another cataloged item.
 
-[<file:Comma_Trick_example_red_box.png>](file:Comma_Trick_example_red_box.png "wikilink")
+![Comma_Trick_example_red_box.png>](images/Comma_Trick_example_red_box.png "wikilink")
 
 ------------------------------------------------------------------------
 

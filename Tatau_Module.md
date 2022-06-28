@@ -1,7 +1,7 @@
 Tatau - Command Window Decorations
 
-![<File:Tatau> Module date
-1.png](Tatau_Module_date_1.png "File:Tatau Module date 1.png")
+![Tatau> Module date
+1.png](images/Tatau_Module_date_1.png "File:Tatau Module date 1.png")
 
 Menu bar real estate in Mac OS X is limited. This plug-in is an
 experiment in providing some of the functionality in another location.
@@ -27,8 +27,8 @@ To set the brightness of the main display:
 -   Select the 'Set Brightness' action in the 2nd pane.
 -   Press enter/return to execute.
 
-![<File:Tatau> Module Set Brightness
-1.png](Tatau_Module_Set_Brightness_1.png "File:Tatau Module Set Brightness 1.png")
+![Tatau> Module Set Brightness
+1.png](images/Tatau_Module_Set_Brightness_1.png "File:Tatau Module Set Brightness 1.png")
 
 This plug-in is still very much an experiment. Only displaying date and
 time are supported at the moment. Displaying other sorts of things is

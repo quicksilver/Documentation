@@ -3,7 +3,7 @@ PLACEHOLDERS IN CAPS. DELETE THIS LINE.
 ## Overview
 
 TEXT [NAME](http://LINK)
-![<File:FILENAME>](FILENAME "File:FILENAME")
+![FILENAME>](FILENAME "File:FILENAME")
 ==Preference Items== Activate Quicksilver and press ⌘comma to open
 [Preferences](Preferences "wikilink"). Each column represents a page
 within the main Preferences window. Best practise is to activate the

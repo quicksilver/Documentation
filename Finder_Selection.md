@@ -15,7 +15,7 @@ __TOC__
 There are two [proxy objects](Proxy_Object "wikilink") that can grab the
 current Finder selection: "Finder Selection" and "Current Selection".
 
-![<File:Current_selection.png>](Current_selection.png "File:Current_selection.png")
+![Current_selection.png>](images/Current_selection.png "File:Current_selection.png")
 
 "Current Selection" also works on other kinds of selections, like a URL
 highlighted in a text editor. Thus, you'll probably want to use "Current
@@ -39,7 +39,7 @@ using the [Service Menu Module](Service_Menu_Module "wikilink").
 Quicksilver has a built in service called "Send to Quicksilver",
 functioning similarly to the "Current Selection" proxy object.
 
-![<File:System_Preferences_Send_to_Quicksilver_Service.png>](System_Preferences_Send_to_Quicksilver_Service.png "File:System_Preferences_Send_to_Quicksilver_Service.png")
+![System_Preferences_Send_to_Quicksilver_Service.png>](images/System_Preferences_Send_to_Quicksilver_Service.png "File:System_Preferences_Send_to_Quicksilver_Service.png")
 
 This service has the keyboard shortcut ⌘⎋, which is the same as the
 "Command Window with Selection" trigger built into Quicksilver. If you

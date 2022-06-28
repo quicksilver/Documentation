@@ -3,7 +3,7 @@ Click the links below to get started, search, or even help expand the
 wiki by logging in and adding to it!
 
 ![Quicksilver Command
-Window](Quicksilver_splash.png "Quicksilver Command Window")
+Window](images/Quicksilver_splash.png "Quicksilver Command Window")
 
 ## Getting started
 
