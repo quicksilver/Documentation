@@ -3,12 +3,10 @@ of functionalities, as posted on the @LoveQuicksilver twitter account.
 
 Here are some key characters with their meanings attached:
 ⇧shift ⌃control ⌥option ⌘command ↵enter ⇥tab ←left arrow →right ↓down
-↑up βbeta ßeszett!
-
-See the latest Quicksilver TOTDs at:
-<http://snapbird.org/lovequicksilver/timeline/TOTD>
+↑up
 
 ===Tips===
+
 \* Pressing delete while typing resets the search text without removing
 the Object in pane 1. Press it again to clear pane 1.
 
