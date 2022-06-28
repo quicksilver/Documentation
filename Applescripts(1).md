@@ -1,0 +1,1 @@
+1.  REDIRECT [AppleScripts](AppleScripts "wikilink")
