@@ -1,39 +1,24 @@
-The following AppleScript code should be saved as a standard AppleScript
-.scpt file in \~/Library/Application Support/Quicksilver/Actions.
+# Run\_command\_in\_shell\_with\_arguments
 
-# Usage
+The following AppleScript code should be saved as a standard AppleScript .scpt file in \~/Library/Application Support/Quicksilver/Actions.
 
-Enter a text command in Quicksilver's first pane and then either enter a
-string of text in its third pane or select one or more files in the
-third pane.
+## Usage
 
-By default, the POSIX paths of the files selected in the third pane (or
-the string of text entered in it) will be appended to the end of the
-command entered in the first pane.
+Enter a text command in Quicksilver's first pane and then either enter a string of text in its third pane or select one or more files in the third pane.
 
-Optionally, the command entered in the first pane can specify where
-arguments from the third pane should be substituted in. There are two
-methods to do so:
+By default, the POSIX paths of the files selected in the third pane (or the string of text entered in it) will be appended to the end of the command entered in the first pane.
 
-1\. Use $@ to indicate where all the arguments should go in one glob.
-Example:
+Optionally, the command entered in the first pane can specify where arguments from the third pane should be substituted in. There are two methods to do so:
 
-`       somecommand -i $@ --switches`
-`       `
-`   will place all third pane arguments between -i and --switches`
-`       `
+1\. Use $@ to indicate where all the arguments should go in one glob. Example:
 
-2\. Use $1, $2, etc., to place specific arguments at specific points in
-the command. If an argument number is called for, but there are not
-enough arguments supplied in the third pane, this action will abort with
-an error message. If more arguments are supplied than there are argument
-numbers called for, the remaining arguments will be appended to the end
-of the command. It is possible to skip numbers in this sequence (e.g.
-$1, $3).
+&#x20;      `somecommand -i $@ --switches` `` `will place all third pane arguments between -i and --switches` ``      &#x20;
 
-# Code
+2\. Use $1, $2, etc., to place specific arguments at specific points in the command. If an argument number is called for, but there are not enough arguments supplied in the third pane, this action will abort with an error message. If more arguments are supplied than there are argument numbers called for, the remaining arguments will be appended to the end of the command. It is possible to skip numbers in this sequence (e.g. $1, $3).
 
-``` applescript
+## Code
+
+```applescript
 property shouldVerify : true --change to false to skip verification dialog. Not recommended.
 
 using terms from application "Quicksilver"

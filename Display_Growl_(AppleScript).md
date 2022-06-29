@@ -1,14 +1,10 @@
-A 3rd pane AppleScript action that takes text from Pane 1 and displays a
-[Growl](http://growl.info/) Notification. If you uncomment the "with
-sticky" part, the notification will remain on the screen until dismissed
-by the user explicitly.
+# Display\_Growl\_(AppleScript)
 
-This script is written for Growl 2.0+. To make it work with earlier
-versions, replace (tell application "Growl") to (tell application
-"GrowlHelperApp")
+A 3rd pane AppleScript action that takes text from Pane 1 and displays a [Growl](http://growl.info/) Notification. If you uncomment the "with sticky" part, the notification will remain on the screen until dismissed by the user explicitly.
 
-``` applescript
+This script is written for Growl 2.0+. To make it work with earlier versions, replace (tell application "Growl") to (tell application "GrowlHelperApp")
 
+```applescript
 
 using terms from application "Quicksilver"
     on process text theText

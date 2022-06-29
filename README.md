@@ -1,48 +1,42 @@
-This wiki contains information on the Mac OS X application Quıcĸsıɩⅴεʀ.
-Click the links below to get started, search, or even help expand the
-wiki by logging in and adding to it!
+## Description
 
-![Quicksilver Command
-Window](images/Quicksilver_splash.png "Quicksilver Command Window")
+The 1Password for Quicksilver plugin enables you to right arrow into the
+1Password application, giving you a list of all your data saved in
+1Password. It also gives you the ability to catalogue all your 1Password
+data and manipulate it from within Quicksilver.
 
-## Getting started
+## Actions
 
-[What Is Quicksilver?](What_Is_Quicksilver? "wikilink")
+### Go & Fill
 
-[Quick-start Guide](Quick-start_Guide "wikilink")
+This action will perform just like the Go & Fill action from within
+1Password on your saved Web Forms. The 'Go & Fill...' action works with
+the comma trick, so you can open multiple logins at once.
 
-[Quicksilver User's Guide](Quicksilver_User's_Guide "wikilink") - a
-little out of date but still very useful
+### Reveal In 1Password
 
-[Quicksilver Quick Reference](http://qsapp.com/docs/QSRef.pdf) - current
-with QS 1.4.1
+This action will open the selected 1Password data entry in 1Password for
+editing, copying of data etc. 
 
-[Tutorials](Tutorials "wikilink")
+## Catalogue Entries
 
-[FAQ](FAQ "wikilink")
+To save you time from having to search for 1Password, then right arrow
+you can 'tick' the 'Web Forms' source under Catalog Preferences, and all
+forms will be searchable from anywhere (disabled by default)  You may
+need to rescan manually to start with.
 
-[Support and Troubleshooting](Support_and_Troubleshooting "wikilink")
+The plugin can index and catalog all your 1Password data; web forms,
+accounts, software, identities, wallet items and notes.
 
-## References
+## Requirements
 
-[Actions](Actions "wikilink")
+Operating System: Mac OS X 10.5+
 
-[Catalog](Catalog "wikilink")
+Applications: 1Password 3+
 
-[Tutorials](Tutorials "wikilink")
+## External Links
 
-[Plugin Reference](Plugin_Reference "wikilink")
+[Developer's Website](http://patjack.co.uk)
 
-[Keyboard shortcuts](Keyboard_shortcuts "wikilink")
-
-[Interfaces](Interfaces "wikilink")
-
-[AppleScripts](AppleScripts "wikilink")
-
-[Hidden Defaults](Hidden_Defaults "wikilink")
-
-## Getting involved
-
-[Helping Quicksilver](Helping_Quicksilver "wikilink")
-
-[Developer Information](Developer_Information "wikilink")
+[1Password Plugin for Quicksilver Source
+Code](https://github.com/pjrobertson/1Password-Plugin)
