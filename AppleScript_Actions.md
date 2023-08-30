@@ -26,12 +26,16 @@ end using terms
 
 Each script should have one "open" or "process" handler. The open or process handler is what QuickSilver will call to do the actual work (i.e. it's what is called when you activate the QuickSilver action).
 
-| Handler Name                                                     | Description                                                                                                                                                                                                                                     |
-| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <pre><code>open files _items_</code></pre>                       | Receives direct objects from Quicksilver. Use this handler if you want an AppleScript Action to accept files from Quicksilver's 1st pane                                                                                                        |
-| <pre><code>open files _items_ with _indirect_items_</code></pre> | Receives direct objects and indirect objects from Quicksilver. Use this handler if you want an Action to accept files from Quicksilver's 1st pane and also take an item from Quicksilver's 3rd pane (requires the `get argument count` handler. |
-| <pre><code>process text _text_</code></pre>                      | Receives text from Quicksilver from Quicksilver's 1st pane to process in the AppleScript                                                                                                                                                        |
-| <pre><code>open _items_</code></pre>                             | An old handler for sending files to Quicksilver. Should not be used, and is replaced by the `open files _items_` handler                                                                                                                        |
+| Handler Name                                                      | Description                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <pre><code>open files _items_
+</code></pre>                       | Receives direct objects from Quicksilver. Use this handler if you want an AppleScript Action to accept files from Quicksilver's 1st pane                                                                                                        |
+| <pre><code>open files _items_ with _indirect_items_
+</code></pre> | Receives direct objects and indirect objects from Quicksilver. Use this handler if you want an Action to accept files from Quicksilver's 1st pane and also take an item from Quicksilver's 3rd pane (requires the `get argument count` handler. |
+| <pre><code>process text _text_
+</code></pre>                      | Receives text from Quicksilver from Quicksilver's 1st pane to process in the AppleScript                                                                                                                                                        |
+| <pre><code>open _items_
+</code></pre>                             | An old handler for sending files to Quicksilver. Should not be used, and is replaced by the `open files _items_` handler                                                                                                                        |
 
 ### Returning Items to Quicksilver
 
@@ -54,11 +58,14 @@ end using terms
 
 Argument handlers tell QuickSilver what the script expects. QuickSilver calls them when it starts up. It then uses that info to decided what types of objects to show the script for and if it should show the third pane.
 
-| Handler Name                               | Description                                                                                                                                                                                                                                                                                                                  |
-| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <pre><code>get argument count</code></pre> | Specify whether the AppleScript action uses the 3rd pane or not. If this handler is not present in the AppleScript, the value defaults to 1. If you would like to always use the 3rd pane with your Action then `return 2` in this handler. if you would like the third pane to be optional, use `return 3` in this handler. |
-| <pre><code>get direct types</code></pre>   | Specify the types of 1st pane objects for which the action displays. See the [AppleScript Types](AppleScript\_Types/) page for more information                                                                                                                                                                              |
-| <pre><code>get indirect types</code></pre> | Specify the types of objects that display in Quicksilver's 3rd pane. Only used if `get argument count` returns `2` or `3`. See the [AppleScript Types](AppleScript\_Types/) page for more information.                                                                                                                       |
+| Handler Name                                | Description                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <pre><code>get argument count
+</code></pre> | Specify whether the AppleScript action uses the 3rd pane or not. If this handler is not present in the AppleScript, the value defaults to 1. If you would like to always use the 3rd pane with your Action then `return 2` in this handler. if you would like the third pane to be optional, use `return 3` in this handler. |
+| <pre><code>get direct types
+</code></pre>   | Specify the types of 1st pane objects for which the action displays. See the [AppleScript Types](AppleScript\_Types/) page for more information                                                                                                                                                                              |
+| <pre><code>get indirect types
+</code></pre> | Specify the types of objects that display in Quicksilver's 3rd pane. Only used if `get argument count` returns `2` or `3`. See the [AppleScript Types](AppleScript\_Types/) page for more information.                                                                                                                       |
 
 ## Examples
 

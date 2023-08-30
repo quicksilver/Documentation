@@ -102,6 +102,6 @@ end using terms from
 
 \<syntaxhighlight lang="applescript" enclose="div”> on open the\_items
 
-&#x20;`--If only one file was selected in the first pane, the_items will be an alias to that file.` `--If the comma trick was used to select multiple files in Quicksilver's first pane, the_items will be a list of aliases` `` `--Enter your code to work with the_items here.`
+&#x20;`--If only one file was selected in the first pane, the_items will be an alias to that file.` `--If the comma trick was used to select multiple files in Quicksilver's first pane, the_items will be a list of aliases`   `--Enter your code to work with the_items here.`
 
 end open

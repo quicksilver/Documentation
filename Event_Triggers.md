@@ -1,57 +1,24 @@
-## Overview
+# Event\_Triggers
 
-The Event Triggers plugin causes a predefined action to occur just like
-any other trigger, except the trigger is not directly activated by the
-user. Instead, it's triggered by an "event", such as the current track
-in iTunes changing, apps launching or quitting, disks ejecting, and a
-few others. It comes with a proxy object called Event Trigger Object
-that allows the action it triggers to be performed on the object that
-triggered the event. For example, if you set an Event Trigger to fire
-whenever the track in iTunes changes, and set the action to Event
-Trigger Object -\> Large Type, then the name of the track would appear
-on screen whenever the track changed in iTunes.
+### Overview
 
-## Preference Items
+The Event Triggers plugin causes a predefined action to occur just like any other trigger, except the trigger is not directly activated by the user. Instead, it's triggered by an "event", such as the current track in iTunes changing, apps launching or quitting, disks ejecting, and a few others. It comes with a proxy object called Event Trigger Object that allows the action it triggers to be performed on the object that triggered the event. For example, if you set an Event Trigger to fire whenever the track in iTunes changes, and set the action to Event Trigger Object -> Large Type, then the name of the track would appear on screen whenever the track changed in iTunes.
 
-Activate Quicksilver and press ⌘comma to open
-[Preferences](Preferences "wikilink"). Each column represents a page
-within the main Preferences window. Best practise is to activate the
-items in the columns from left to right. Bullet points indicate items
-within the containing item. The items to check are in bold.
+### Preference Items
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Triggers</p></td>
-<td><p>Catalog</p></td>
-</tr>
-<tr class="even">
-<td><p>[Adds 'Event' triggers that are similar to<br />
-ordinary triggers, but activated due to system changes.]</p></td>
-<td><ul>
-<li>Quicksilver
-<ul>
-<li><b>Proxy Objects</b>
-<ul>
-<li><b>Event Trigger Object</b></li>
-</ul></li>
-</ul></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+Activate Quicksilver and press ⌘comma to open [Preferences](Preferences/). Each column represents a page within the main Preferences window. Best practise is to activate the items in the columns from left to right. Bullet points indicate items within the containing item. The items to check are in bold.
 
-## Tutorials
+| Triggers                                                                                                      | Catalog                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>[Adds 'Event' triggers that are similar to<br>ordinary triggers, but activated due to system changes.]</p> | <ul><li><p>Quicksilver</p><ul><li><p><strong>Proxy Objects</strong></p><ul><li><strong>Event Trigger Object</strong></li></ul></li></ul></li></ul> |
+|                                                                                                               |                                                                                                                                                    |
+
+### Tutorials
 
 Setting up an Event Trigger.
 
-## Plugin Info
+### Plugin Info
 
-(This can be found by pressing the 'i' button at the bottom of the
-Preferences window when the plugin is selected on the Plug-ins page.)
+(This can be found by pressing the 'i' button at the bottom of the Preferences window when the plugin is selected on the Plug-ins page.)
 
 Trigger based on system events

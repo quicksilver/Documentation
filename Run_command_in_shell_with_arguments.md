@@ -12,7 +12,7 @@ Optionally, the command entered in the first pane can specify where arguments fr
 
 1\. Use $@ to indicate where all the arguments should go in one glob. Example:
 
-&#x20;      `somecommand -i $@ --switches` `` `will place all third pane arguments between -i and --switches` ``      &#x20;
+&#x20;      `somecommand -i $@ --switches`         `will place all third pane arguments between -i and --switches`       &#x20;
 
 2\. Use $1, $2, etc., to place specific arguments at specific points in the command. If an argument number is called for, but there are not enough arguments supplied in the third pane, this action will abort with an error message. If more arguments are supplied than there are argument numbers called for, the remaining arguments will be appended to the end of the command. It is possible to skip numbers in this sequence (e.g. $1, $3).
 
