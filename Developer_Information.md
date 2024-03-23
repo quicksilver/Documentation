@@ -18,7 +18,7 @@ Below are links to the Quicksilver source, and the plugin source. You can also f
 
 [Github Collaboration Best Practices](Github/)
 
-[Release Process](/documentation/Release\_Process/)
+[Release Process](https://docs.qsapp.com/documentation/Release\_Process)
 
 [NSNotifications used in Quicksilver](Notifications/)
 
