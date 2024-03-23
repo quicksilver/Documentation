@@ -22,7 +22,7 @@ Invoke QS, search for a cataloged item, press comma, and search for another cata
 
 ![Comma\_Trick\_example\_red\_box.png>](images/Comma\_Trick\_example\_red\_box.png)
 
-
+***
 
 The last selected item doesn't require a comma press. (In the above picture, System Preferences.)
 

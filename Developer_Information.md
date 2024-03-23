@@ -30,6 +30,6 @@ If you've had a play with Quicksilver's source code, and are interested in helpi
 
 When releasing a new version, a certain [Release Process](Release\_Process/) should be followed, to make sure no important steps are missed.
 
-
+***
 
 If you'd like to help run, manage or contribute to this website, see the [QSApp.com](QSApp.com) page.

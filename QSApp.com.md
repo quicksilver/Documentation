@@ -46,6 +46,6 @@ Volunteers: Etienne, [Jay Williams](http://myd3.com/)
 
 Anyone working on anything other than the wiki should probably know at least the basics of git.
 
-
+***
 
 If you're still stuck on things to do, then you can always email help@qsapp.com for a chat with Patrick, Rob and some of the other guys who've decided to help run the site (this could be you if you want!)

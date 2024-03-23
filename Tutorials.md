@@ -4,7 +4,7 @@ This page includes links to tutorials and videos showing how to use Quicksilver
 
 You may also want to check out the in-depth [Quicksilver User's Guide](Quicksilver\_User's\_Guide/).
 
-
+***
 
 #### Videos
 
@@ -32,7 +32,7 @@ You may also want to check out the in-depth [Quicksilver User's Guide](Quicksilv
 * [Unit Conversion Module](Unit\_Conversion\_Module/)
 * [User Interface Access (+)](http://gigaom.com/apple/quicksilver-does-menus-too/)
 
-
+***
 
 ## Grouped by Publisher
 
