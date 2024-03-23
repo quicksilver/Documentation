@@ -1,6 +1,6 @@
 # Actions
 
-**Based on original text and images from the** [**Quicksilver User's Guide**](Quicksilver\_User's\_Guide/)
+**Based on original text and images from the** [**Quicksilver User's Guide**](https://qsapp.com/manual/)
 
 ## Explanation
 

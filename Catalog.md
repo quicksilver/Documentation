@@ -34,4 +34,4 @@ Quicksilver's default configuration tells it to look for files in a limited numb
 
 ### For further information on customizing your catalog
 
-See the [Quicksilver User's Guide](Quicksilver\_User's\_Guide/).
+See the [Quicksilver User's Guide](https://qsapp.com/manual/).

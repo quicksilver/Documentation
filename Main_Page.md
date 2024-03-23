@@ -7,11 +7,11 @@ Window](images/Quicksilver\_splash.png)
 
 ### Getting started
 
-[What Is Quicksilver?](What\_Is\_Quicksilver)
+[What Is Quicksilver?](https://docs.qsapp.com/documentation/what\_is\_quicksilver)
 
 [Quick-start Guide](Quick-start\_Guide/)
 
-[Quicksilver User's Guide](Quicksilver\_User's\_Guide/) - a little out of date but still very useful
+[Quicksilver User's Guide](https://qsapp.com/manual/) - a little out of date but still very useful
 
 [Quicksilver Quick Reference](http://qsapp.com/docs/QSRef.pdf) - current with QS 1.4.1
 

@@ -1,6 +1,6 @@
 # AppleScript\_Action\_templates
 
-Several templates for AppleScript actions are given here. To learn what they mean and how to use them, see [AppleScript Actions](AppleScript\_Actions/).
+Several templates for AppleScript actions are given here. To learn what they mean and how to use them, see [AppleScript Actions](https://docs.qsapp.com/documentation/applescript\_actions).
 
 Note that Quicksilver is fully backwards-compatible with AppleScript actions written using obsolete templates, so those will still work with the latest version of Quicksilver, but they will not benefit from the new features available using the current templates. To use these new features, update your scripts to use the current template.
 
@@ -20,7 +20,7 @@ If there is one that you use frequently, consider saving the template (perhaps w
 
 &#x20;`end open files`
 
-&#x20;`--This handler may be omitted if the action accepts for all direct object types.` `on get direct types` `(* Possible values to return can include any of:` `"NSFilenamesPboardType"` `"NSStringPboardType"` `"Apple URL pasteboard type"` `"QSFormulaType"` `"qs.process"` `"qs.command"` `"QSRemoteHostsType"` `"com.apple.itunes.track"` `See` [`http://qsapp.com/wiki/AppleScript_Types`](http://qsapp.com/wiki/AppleScript\_Types) `for details. *)` `return {"NSFilenamesPboardType"}` `end get direct types`
+&#x20;`--This handler may be omitted if the action accepts for all direct object types.` `on get direct types` `(* Possible values to return can include any of:` `"NSFilenamesPboardType"` `"NSStringPboardType"` `"Apple URL pasteboard type"` `"QSFormulaType"` `"qs.process"` `"qs.command"` `"QSRemoteHostsType"` `"com.apple.itunes.track"` `See` [`http://qsapp.com/wiki/AppleScript_Types`](https://docs.qsapp.com/documentation/applescript\_types) `for details. *)` `return {"NSFilenamesPboardType"}` `end get direct types`
 
 end using terms from
 
@@ -36,9 +36,9 @@ end using terms from
 
 &#x20;`on get argument count` `(* Use "return 1" (or omit this entire handler) to never show the third pane.` `Use "return 2" to force the third pane to show.` `Use "return 3" to make the third pane optional. *)` `return 2` `end get argument count`
 
-&#x20;`--This handler may be omitted if the action accepts all direct object types.` `on get direct types` `(* Possible values to return can include any of:` `"NSFilenamesPboardType"` `"NSStringPboardType"` `"Apple URL pasteboard type"` `"QSFormulaType"` `"qs.process"` `"qs.command"` `"QSRemoteHostsType"` `"com.apple.itunes.track"` `See` [`http://qsapp.com/wiki/AppleScript_Types`](http://qsapp.com/wiki/AppleScript\_Types) `for details. *)` `return {"NSFilenamesPboardType"}` `end get direct types`
+&#x20;`--This handler may be omitted if the action accepts all direct object types.` `on get direct types` `(* Possible values to return can include any of:` `"NSFilenamesPboardType"` `"NSStringPboardType"` `"Apple URL pasteboard type"` `"QSFormulaType"` `"qs.process"` `"qs.command"` `"QSRemoteHostsType"` `"com.apple.itunes.track"` `See` [`http://qsapp.com/wiki/AppleScript_Types`](https://docs.qsapp.com/documentation/applescript\_types) `for details. *)` `return {"NSFilenamesPboardType"}` `end get direct types`
 
-&#x20;`--This handler may be omitted if the action accepts all indirect object types.` `on get indirect types` `(* Possible values to return can include any of:` `"NSFilenamesPboardType"` `"NSStringPboardType"` `"Apple URL pasteboard type"` `"QSFormulaType"` `"qs.process"` `"qs.command"` `"QSRemoteHostsType"` `"com.apple.itunes.track"` `See` [`http://qsapp.com/wiki/AppleScript_Types`](http://qsapp.com/wiki/AppleScript\_Types) `for details. *)` `return {"NSFilenamesPboardType",  "NSStringPboardType"}` `end get indirect types`
+&#x20;`--This handler may be omitted if the action accepts all indirect object types.` `on get indirect types` `(* Possible values to return can include any of:` `"NSFilenamesPboardType"` `"NSStringPboardType"` `"Apple URL pasteboard type"` `"QSFormulaType"` `"qs.process"` `"qs.command"` `"QSRemoteHostsType"` `"com.apple.itunes.track"` `See` [`http://qsapp.com/wiki/AppleScript_Types`](https://docs.qsapp.com/documentation/applescript\_types) `for details. *)` `return {"NSFilenamesPboardType",  "NSStringPboardType"}` `end get indirect types`
 
 end using terms from
 
@@ -52,7 +52,7 @@ end using terms from
 
 &#x20;`end process text`
 
-&#x20;`--This handler may be omitted if the action accepts all direct object types.` `on get direct types` `(* Possible values to return can include any of:` `"NSFilenamesPboardType"` `"NSStringPboardType"` `"Apple URL pasteboard type"` `"QSFormulaType"` `"qs.process"` `"qs.command"` `"QSRemoteHostsType"` `"com.apple.itunes.track"` `See` [`http://qsapp.com/wiki/AppleScript_Types`](http://qsapp.com/wiki/AppleScript\_Types) `for details. *)` `return {"NSStringPboardType", "Apple URL pasteboard type"}` `end get direct types`
+&#x20;`--This handler may be omitted if the action accepts all direct object types.` `on get direct types` `(* Possible values to return can include any of:` `"NSFilenamesPboardType"` `"NSStringPboardType"` `"Apple URL pasteboard type"` `"QSFormulaType"` `"qs.process"` `"qs.command"` `"QSRemoteHostsType"` `"com.apple.itunes.track"` `See` [`http://qsapp.com/wiki/AppleScript_Types`](https://docs.qsapp.com/documentation/applescript\_types) `for details. *)` `return {"NSStringPboardType", "Apple URL pasteboard type"}` `end get direct types`
 
 end using terms from
 
@@ -68,9 +68,9 @@ end using terms from
 
 &#x20;`on get argument count` `(* Use "return 1" (or omit this entire handler) to never show the third pane.` `Use "return 2" to force the third pane to show.` `Use "return 3" to make the third pane optional. *)` `return 2` `end get argument count`
 
-&#x20;`--This handler may be omitted if the action accepts all direct object types.` `on get direct types` `(* Possible values to return can include any of:` `"NSFilenamesPboardType"` `"NSStringPboardType"` `"Apple URL pasteboard type"` `"QSFormulaType"` `"qs.process"` `"qs.command"` `"QSRemoteHostsType"` `"com.apple.itunes.track"` `See` [`http://qsapp.com/wiki/AppleScript_Types`](http://qsapp.com/wiki/AppleScript\_Types) `for details. *)` `return {"NSStringPboardType", "Apple URL pasteboard type"}` `end get direct types`
+&#x20;`--This handler may be omitted if the action accepts all direct object types.` `on get direct types` `(* Possible values to return can include any of:` `"NSFilenamesPboardType"` `"NSStringPboardType"` `"Apple URL pasteboard type"` `"QSFormulaType"` `"qs.process"` `"qs.command"` `"QSRemoteHostsType"` `"com.apple.itunes.track"` `See` [`http://qsapp.com/wiki/AppleScript_Types`](https://docs.qsapp.com/documentation/applescript\_types) `for details. *)` `return {"NSStringPboardType", "Apple URL pasteboard type"}` `end get direct types`
 
-&#x20;`--This handler may be omitted if the action accepts all indirect object types.` `on get indirect types` `(* Possible values to return can include any of:` `"NSFilenamesPboardType"` `"NSStringPboardType"` `"Apple URL pasteboard type"` `"QSFormulaType"` `"qs.process"` `"qs.command"` `"QSRemoteHostsType"` `"com.apple.itunes.track"` `See` [`http://qsapp.com/wiki/AppleScript_Types`](http://qsapp.com/wiki/AppleScript\_Types) `for details. *)` `return {"NSFilenamesPboardType",  "NSStringPboardType"}` `end get indirect types`
+&#x20;`--This handler may be omitted if the action accepts all indirect object types.` `on get indirect types` `(* Possible values to return can include any of:` `"NSFilenamesPboardType"` `"NSStringPboardType"` `"Apple URL pasteboard type"` `"QSFormulaType"` `"qs.process"` `"qs.command"` `"QSRemoteHostsType"` `"com.apple.itunes.track"` `See` [`http://qsapp.com/wiki/AppleScript_Types`](https://docs.qsapp.com/documentation/applescript\_types) `for details. *)` `return {"NSFilenamesPboardType",  "NSStringPboardType"}` `end get indirect types`
 
 end using terms from
 

@@ -2,7 +2,7 @@
 
 This page includes links to tutorials and videos showing how to use Quicksilver
 
-You may also want to check out the in-depth [Quicksilver User's Guide](Quicksilver\_User's\_Guide/).
+You may also want to check out the in-depth [Quicksilver User's Guide](https://qsapp.com/manual/).
 
 ***
 
