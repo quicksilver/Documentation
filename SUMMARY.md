@@ -57,7 +57,7 @@
 * [Quick\_Quick\_Look\_(AppleScript)](Quick\_Quick\_Look\_\(AppleScript\).md)
 * [Application\_and\_Plugin\_Reference](Quicksilver\_Source\_Code.md)
 * [Quicksilver\_User's\_Guide](Quicksilver\_User's\_Guide.md)
-* [Home](main\_page.md)
+* [Home](Main\_Page.md)
 * [Release\_Process](Release\_Process.md)
 * [Remember\_The\_Milk](Remember\_The\_Milk.md)
 * [Remote\_Hosts\_Module](Remote\_Hosts\_Module.md)
