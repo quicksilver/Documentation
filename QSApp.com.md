@@ -12,7 +12,7 @@ If you're interested in helping get QSApp.com safely on the road to success, the
 * Help launch the QSApp.com website, which would include:
   * Creating a new design and framework for the site to run on
   * Help update the [plugins system](http://qsapp.com/plugins)
-* Help document the plugins available for Quicksilver by filling in this [Plugin Reference](Plugin\_Reference/)
+* Help document the plugins available for Quicksilver by filling in this [Plugin Reference](https://docs.qsapp.com/documentation/Plugin\_Reference)
 
 ### Volunteers
 

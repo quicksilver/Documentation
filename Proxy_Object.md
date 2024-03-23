@@ -4,6 +4,6 @@ A proxy object is a Quicksilver object that is resolved dynamically, based on th
 
 For example, a useful trigger might be "Current Application > Relaunch" ![Relaunch\_Current\_Application.png>](images/Relaunch\_Current\_Application.png)
 
-Proxy objects can be added by plugins. For example, the [Safari plugin](Safari\_Module/)'s "Current Web Page" proxy object will refer to the current page you have open
+Proxy objects can be added by plugins. For example, the [Safari plugin](https://docs.qsapp.com/documentation/Safari\_Module)'s "Current Web Page" proxy object will refer to the current page you have open
 
 You can view your available proxy objects under Quicksilver's preferences > Catalog > Quicksilver. ![Proxy\_Objects\_in\_Catalog.png>](images/20130325014416!Proxy\_Objects\_in\_Catalog.png)

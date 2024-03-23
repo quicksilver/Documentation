@@ -15,32 +15,32 @@ Window](images/Quicksilver\_splash.png)
 
 [Quicksilver Quick Reference](http://qsapp.com/docs/QSRef.pdf) - current with QS 1.4.1
 
-[Tutorials](Tutorials/)
+[Tutorials](https://docs.qsapp.com/documentation/Tutorials)
 
-[FAQ](FAQ/)
+[FAQ](https://docs.qsapp.com/documentation/FAQ)
 
-[Support and Troubleshooting](Support\_and\_Troubleshooting/)
+[Support and Troubleshooting](https://docs.qsapp.com/documentation/Support\_and\_Troubleshooting)
 
 ### References
 
-[Actions](Actions/)
+[Actions](https://docs.qsapp.com/documentation/Actions)
 
-[Catalog](Catalog/)
+[Catalog](https://docs.qsapp.com/documentation/Catalog)
 
-[Tutorials](Tutorials/)
+[Tutorials](https://docs.qsapp.com/documentation/Tutorials)
 
-[Plugin Reference](Plugin\_Reference/)
+[Plugin Reference](https://docs.qsapp.com/documentation/Plugin\_Reference)
 
-[Keyboard shortcuts](Keyboard\_shortcuts/)
+[Keyboard shortcuts](https://docs.qsapp.com/documentation/Keyboard\_shortcuts)
 
-[Interfaces](Interfaces/)
+[Interfaces](https://docs.qsapp.com/documentation/Interfaces)
 
-[AppleScripts](AppleScripts/)
+[AppleScripts](https://docs.qsapp.com/documentation/AppleScripts)
 
-[Hidden Defaults](Hidden\_Defaults/)
+[Hidden Defaults](https://docs.qsapp.com/documentation/Hidden\_Defaults)
 
 ### Getting involved
 
-[Helping Quicksilver](Helping\_Quicksilver/)
+[Helping Quicksilver](https://docs.qsapp.com/documentation/Helping\_Quicksilver)
 
-[Developer Information](Developer\_Information/)
+[Developer Information](https://docs.qsapp.com/documentation/Developer\_Information)

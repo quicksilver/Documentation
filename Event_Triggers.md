@@ -6,7 +6,7 @@ The Event Triggers plugin causes a predefined action to occur just like any othe
 
 ### Preference Items
 
-Activate Quicksilver and press ⌘comma to open [Preferences](Preferences/). Each column represents a page within the main Preferences window. Best practise is to activate the items in the columns from left to right. Bullet points indicate items within the containing item. The items to check are in bold.
+Activate Quicksilver and press ⌘comma to open [Preferences](https://docs.qsapp.com/documentation/Preferences). Each column represents a page within the main Preferences window. Best practise is to activate the items in the columns from left to right. Bullet points indicate items within the containing item. The items to check are in bold.
 
 | Triggers                                                                                                      | Catalog                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |

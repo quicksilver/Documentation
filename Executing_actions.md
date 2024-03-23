@@ -8,7 +8,7 @@ Executing an Action in Quicksilver is known as a 'Command'. Commands are entered
 
 ![Command\_diagram.png>](images/Command\_diagram.png)
 
-A preference pane shows all the Actions that can be performed (⌘comma, select Actions). Uncheck Actions to remove them from use. Drag Actions within the list to improve their priority in the results list in the second pane. See [ordering Actions](ordering\_Actions/).
+A preference pane shows all the Actions that can be performed (⌘comma, select Actions). Uncheck Actions to remove them from use. Drag Actions within the list to improve their priority in the results list in the second pane. See [ordering Actions](https://docs.qsapp.com/documentation/ordering\_Actions).
 
 ![Quicksilver\_actions\_preferences.png>](images/Quicksilver\_actions\_preferences.png)
 
@@ -44,4 +44,4 @@ Since the matching algorithm is case-insensitive the shift key is available for 
 
 ## Alternate Actions
 
-Alternate actions are a quick way of modifying the action without a need to re-type the action. The the [Alternate Actions](Alternate\_Actions/) page for more information and a list of actions and their alternate counterparts.
+Alternate actions are a quick way of modifying the action without a need to re-type the action. The the [Alternate Actions](https://docs.qsapp.com/documentation/Alternate\_Actions) page for more information and a list of actions and their alternate counterparts.

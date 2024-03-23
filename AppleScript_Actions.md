@@ -1,6 +1,6 @@
 # AppleScript Actions
 
-See [AppleScripts](AppleScripts/) for general overview of using AppleScript with Quicksilver.
+See [AppleScripts](https://docs.qsapp.com/documentation/AppleScripts) for general overview of using AppleScript with Quicksilver.
 
 ## Overview
 
@@ -63,13 +63,13 @@ Argument handlers tell QuickSilver what the script expects. QuickSilver calls th
 | <pre><code>get argument count
 </code></pre> | Specify whether the AppleScript action uses the 3rd pane or not. If this handler is not present in the AppleScript, the value defaults to 1. If you would like to always use the 3rd pane with your Action then `return 2` in this handler. if you would like the third pane to be optional, use `return 3` in this handler. |
 | <pre><code>get direct types
-</code></pre>   | Specify the types of 1st pane objects for which the action displays. See the [AppleScript Types](AppleScript\_Types/) page for more information                                                                                                                                                                              |
+</code></pre>   | Specify the types of 1st pane objects for which the action displays. See the [AppleScript Types](https://docs.qsapp.com/documentation/AppleScript\_Types) page for more information                                                                                                                                                                              |
 | <pre><code>get indirect types
-</code></pre> | Specify the types of objects that display in Quicksilver's 3rd pane. Only used if `get argument count` returns `2` or `3`. See the [AppleScript Types](AppleScript\_Types/) page for more information.                                                                                                                       |
+</code></pre> | Specify the types of objects that display in Quicksilver's 3rd pane. Only used if `get argument count` returns `2` or `3`. See the [AppleScript Types](https://docs.qsapp.com/documentation/AppleScript\_Types) page for more information.                                                                                                                       |
 
 ## Examples
 
-For examples on how to use these handlers, see the [AppleScripts](AppleScripts/) page. Also see the [AppleScript Action templates](AppleScript\_Action\_templates/).
+For examples on how to use these handlers, see the [AppleScripts](https://docs.qsapp.com/documentation/AppleScripts) page. Also see the [AppleScript Action templates](https://docs.qsapp.com/documentation/AppleScript\_Action\_templates).
 
 ## Customising the Action Icon
 

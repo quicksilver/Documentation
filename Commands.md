@@ -8,7 +8,7 @@ Executing an Action in Quicksilver is known as a 'Command'. Commands are entered
 
 ![Command\_diagram.png>](images/Command\_diagram.png)
 
-A preference pane shows all the Actions that can be performed (⌘comma, select Actions). Uncheck Actions to remove them from use. Drag Actions within the list to improve their priority in the results list in the second pane. See [ordering actions](ordering\_actions/).
+A preference pane shows all the Actions that can be performed (⌘comma, select Actions). Uncheck Actions to remove them from use. Drag Actions within the list to improve their priority in the results list in the second pane. See [ordering actions](https://docs.qsapp.com/documentation/ordering\_actions).
 
 ![Quicksilver\_actions\_preferences.png>](images/Quicksilver\_actions\_preferences.png)
 
