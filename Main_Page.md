@@ -1,6 +1,6 @@
 # Home
 
-This wiki contains information on the Mac OS X application Quıcĸsıɩⅴεʀ. Click the links below to get started, search, or even help expand the wiki by logging in and adding to it!
+This wiki contains information on the Mac OS application Quıcĸsıɩⅴεʀ. Click the links below to get started, search, or even help expand the wiki by logging in and adding to it!
 
 ![Quicksilver Command
 Window](images/Quicksilver\_splash.png)
@@ -11,15 +11,15 @@ Window](images/Quicksilver\_splash.png)
 
 [Quick-start Guide](Quick-start\_Guide/)
 
-[Quicksilver User's Guide](https://qsapp.com/manual/) - a little out of date but still very useful
+[Quicksilver User's Guide](https://qsapp.com/manual/) - the most up to date guide on Quicksilver
 
-[Quicksilver Quick Reference](http://qsapp.com/docs/QSRef.pdf) - current with QS 1.4.1
+[Quicksilver Quick Reference](https://qsapp.com/docs/QSRef.pdf) - a quick reference guide of available actions
 
-[Tutorials](https://docs.qsapp.com/documentation/tutorials)
+[Tutorials](https://docs.qsapp.com/documentation/tutorials) - a list of videos to tutorials
 
-[FAQ](https://docs.qsapp.com/documentation/faq)
+[FAQ](https://qsapp.com/manual/FAQ/)
 
-[Support and Troubleshooting](https://docs.qsapp.com/documentation/support\_and\_troubleshooting)
+[Support and Troubleshooting](https://qsapp.com/manual/Troubleshooting/)
 
 ### References
 
