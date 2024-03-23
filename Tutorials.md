@@ -19,17 +19,17 @@ You may also want to check out the in-depth [Quicksilver User's Guide](Quicksilv
 
 ### Getting Started
 
-* [Executing actions](https://docs.qsapp.com/documentation/Executing\_actions)
-* [Comma Trick](https://docs.qsapp.com/documentation/Comma\_Trick)
-* [Ordering actions](https://docs.qsapp.com/documentation/Ordering\_actions)
+* [Executing actions](https://docs.qsapp.com/documentation/executing\_actions)
+* [Comma Trick](https://docs.qsapp.com/documentation/comma\_trick)
+* [Ordering actions](https://docs.qsapp.com/documentation/ordering\_actions)
 
 #### Plugins
 
 * [File Tagging Module (+)](http://gigaom.com/apple/the-metadata-screencast-part-three/) (screencast no longer available)
 * [iCal Module (+)](http://www.tuaw.com/2006/09/23/how-to-add-a-new-ical-event-from-quicksilver/)
-* [Remember The Milk](https://docs.qsapp.com/documentation/Remember\_The\_Milk)
-* [Shelf Module](https://docs.qsapp.com/documentation/Shelf\_Module)
-* [Unit Conversion Module](https://docs.qsapp.com/documentation/Unit\_Conversion\_Module)
+* [Remember The Milk](https://docs.qsapp.com/documentation/remember\_the\_milk)
+* [Shelf Module](https://docs.qsapp.com/documentation/shelf\_module)
+* [Unit Conversion Module](https://docs.qsapp.com/documentation/unit\_conversion\_module)
 * [User Interface Access (+)](http://gigaom.com/apple/quicksilver-does-menus-too/)
 
 ***

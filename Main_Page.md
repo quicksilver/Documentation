@@ -15,32 +15,32 @@ Window](images/Quicksilver\_splash.png)
 
 [Quicksilver Quick Reference](http://qsapp.com/docs/QSRef.pdf) - current with QS 1.4.1
 
-[Tutorials](https://docs.qsapp.com/documentation/Tutorials)
+[Tutorials](https://docs.qsapp.com/documentation/tutorials)
 
-[FAQ](https://docs.qsapp.com/documentation/FAQ)
+[FAQ](https://docs.qsapp.com/documentation/faq)
 
-[Support and Troubleshooting](https://docs.qsapp.com/documentation/Support\_and\_Troubleshooting)
+[Support and Troubleshooting](https://docs.qsapp.com/documentation/support\_and\_troubleshooting)
 
 ### References
 
-[Actions](https://docs.qsapp.com/documentation/Actions)
+[Actions](https://docs.qsapp.com/documentation/actions)
 
-[Catalog](https://docs.qsapp.com/documentation/Catalog)
+[Catalog](https://docs.qsapp.com/documentation/catalog)
 
-[Tutorials](https://docs.qsapp.com/documentation/Tutorials)
+[Tutorials](https://docs.qsapp.com/documentation/tutorials)
 
-[Plugin Reference](https://docs.qsapp.com/documentation/Plugin\_Reference)
+[Plugin Reference](https://docs.qsapp.com/documentation/plugin\_reference)
 
-[Keyboard shortcuts](https://docs.qsapp.com/documentation/Keyboard\_shortcuts)
+[Keyboard shortcuts](https://docs.qsapp.com/documentation/keyboard\_shortcuts)
 
-[Interfaces](https://docs.qsapp.com/documentation/Interfaces)
+[Interfaces](https://docs.qsapp.com/documentation/interfaces)
 
-[AppleScripts](https://docs.qsapp.com/documentation/AppleScripts)
+[AppleScripts](https://docs.qsapp.com/documentation/applescripts)
 
-[Hidden Defaults](https://docs.qsapp.com/documentation/Hidden\_Defaults)
+[Hidden Defaults](https://docs.qsapp.com/documentation/hidden\_defaults)
 
 ### Getting involved
 
-[Helping Quicksilver](https://docs.qsapp.com/documentation/Helping\_Quicksilver)
+[Helping Quicksilver](https://docs.qsapp.com/documentation/helping\_quicksilver)
 
-[Developer Information](https://docs.qsapp.com/documentation/Developer\_Information)
+[Developer Information](https://docs.qsapp.com/documentation/developer\_information)
