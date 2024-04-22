@@ -42,11 +42,22 @@ using terms from application "Quicksilver"
 
   end open files
 
-  on get argument count (* Use "return 1" (or omit this entire handler) to never show the third pane. Use "return 2" to force the third pane to show. Use "return 3" to make the third pane optional. *) return 2 end get argument count
+  on get argument count
+(* Use "return 1" (or omit this entire handler) to never show the third pane. Use "return 2" to force the third pane to show. Use "return 3" to make the third pane optional. *)
+return 2
+end get argument count
 
-  --This handler may be omitted if the action accepts all direct object types. on get direct types (* Possible values to return can include any of: "NSFilenamesPboardType" "NSStringPboardType" "Apple URL pasteboard type" "QSFormulaType" "qs.process" "qs.command" "QSRemoteHostsType" "com.apple.itunes.track" See [http://qsapp.com/wiki/AppleScript_Types](https://docs.qsapp.com/documentation/applescript\_types) for details. *) return {"NSFilenamesPboardType"} end get direct types
+  --This handler may be omitted if the action accepts all direct object types.
+on get direct types
+(* Possible values to return can include any of: "NSFilenamesPboardType" "NSStringPboardType" "Apple URL pasteboard type" "QSFormulaType" "qs.process" "qs.command" "QSRemoteHostsType" "com.apple.itunes.track" See [http://qsapp.com/wiki/AppleScript_Types](https://docs.qsapp.com/documentation/applescript\_types) for details. *)
+return {"NSFilenamesPboardType"}
+end get direct types
 
-  --This handler may be omitted if the action accepts all indirect object types. on get indirect types (* Possible values to return can include any of: "NSFilenamesPboardType" "NSStringPboardType" "Apple URL pasteboard type" "QSFormulaType" "qs.process" "qs.command" "QSRemoteHostsType" "com.apple.itunes.track" See [http://qsapp.com/wiki/AppleScript_Types](https://docs.qsapp.com/documentation/applescript\_types) for details. *) return {"NSFilenamesPboardType",  "NSStringPboardType"} end get indirect types
+  --This handler may be omitted if the action accepts all indirect object types.
+on get indirect types
+(* Possible values to return can include any of: "NSFilenamesPboardType" "NSStringPboardType" "Apple URL pasteboard type" "QSFormulaType" "qs.process" "qs.command" "QSRemoteHostsType" "com.apple.itunes.track" See [http://qsapp.com/wiki/AppleScript_Types](https://docs.qsapp.com/documentation/applescript\_types) for details. *)
+return {"NSFilenamesPboardType",  "NSStringPboardType"}
+end get indirect types
 
 end using terms from
 ```
@@ -62,7 +73,11 @@ using terms from application "Quicksilver"
 
   end process text
 
-  --This handler may be omitted if the action accepts all direct object types. on get direct types (* Possible values to return can include any of: "NSFilenamesPboardType" "NSStringPboardType" "Apple URL pasteboard type" "QSFormulaType" "qs.process" "qs.command" "QSRemoteHostsType" "com.apple.itunes.track" See [http://qsapp.com/wiki/AppleScript_Types](https://docs.qsapp.com/documentation/applescript\_types) for details. *) return {"NSStringPboardType", "Apple URL pasteboard type"} end get direct types
+  --This handler may be omitted if the action accepts all direct object types.
+on get direct types
+(* Possible values to return can include any of: "NSFilenamesPboardType" "NSStringPboardType" "Apple URL pasteboard type" "QSFormulaType" "qs.process" "qs.command" "QSRemoteHostsType" "com.apple.itunes.track" See [http://qsapp.com/wiki/AppleScript_Types](https://docs.qsapp.com/documentation/applescript\_types) for details. *)
+return {"NSStringPboardType", "Apple URL pasteboard type"}
+end get direct types
 
 end using terms from
 ```
@@ -78,11 +93,22 @@ using terms from application "Quicksilver"
 
   end open files
 
-  on get argument count (* Use "return 1" (or omit this entire handler) to never show the third pane. Use "return 2" to force the third pane to show. Use "return 3" to make the third pane optional. *) return 2 end get argument count
+  on get argument count
+(* Use "return 1" (or omit this entire handler) to never show the third pane. Use "return 2" to force the third pane to show. Use "return 3" to make the third pane optional. *)
+return 2
+end get argument count
 
-  --This handler may be omitted if the action accepts all direct object types. on get direct types (* Possible values to return can include any of: "NSFilenamesPboardType" "NSStringPboardType" "Apple URL pasteboard type" "QSFormulaType" "qs.process" "qs.command" "QSRemoteHostsType" "com.apple.itunes.track" See [http://qsapp.com/wiki/AppleScript_Types](https://docs.qsapp.com/documentation/applescript\_types) for details. *) return {"NSStringPboardType", "Apple URL pasteboard type"} end get direct types
+  --This handler may be omitted if the action accepts all direct object types.
+on get direct types
+(* Possible values to return can include any of: "NSFilenamesPboardType" "NSStringPboardType" "Apple URL pasteboard type" "QSFormulaType" "qs.process" "qs.command" "QSRemoteHostsType" "com.apple.itunes.track" See [http://qsapp.com/wiki/AppleScript_Types](https://docs.qsapp.com/documentation/applescript\_types) for details. *)
+return {"NSStringPboardType", "Apple URL pasteboard type"}
+end get direct types
 
-  --This handler may be omitted if the action accepts all indirect object types. on get indirect types (* Possible values to return can include any of: "NSFilenamesPboardType" "NSStringPboardType" "Apple URL pasteboard type" "QSFormulaType" "qs.process" "qs.command" "QSRemoteHostsType" "com.apple.itunes.track" See [http://qsapp.com/wiki/AppleScript_Types](https://docs.qsapp.com/documentation/applescript\_types) for details. *) return {"NSFilenamesPboardType",  "NSStringPboardType"} end get indirect types
+  --This handler may be omitted if the action accepts all indirect object types.
+on get indirect types
+(* Possible values to return can include any of: "NSFilenamesPboardType" "NSStringPboardType" "Apple URL pasteboard type" "QSFormulaType" "qs.process" "qs.command" "QSRemoteHostsType" "com.apple.itunes.track" See [http://qsapp.com/wiki/AppleScript_Types](https://docs.qsapp.com/documentation/applescript\_types) for details. *)
+return {"NSFilenamesPboardType",  "NSStringPboardType"}
+end get indirect types
 
 end using terms from
 ```
@@ -96,31 +122,24 @@ end using terms from
 ```applesript
 using terms from application "Quicksilver"
 
-  on process text dObject with iObject activate set message to "Direct is '" & dObject & "'" if class of iObject is list then -- user used the comma trick to add multiple objects to the indirect object (the third pane) set message to message & " indirect has " & (number of items in iObject) & " items:" repeat with i from 1 to number of items in iObject set message to message & return & tab & quote & (item i of iObject) & quote end repeat else if class of iObject is text then -- there is only one item in the third pane set message to message & " indirect is '" & iObject & "'" end if display dialog message buttons {"OK"} default button 1 end process text
+  on process text dObject with iObject
+activate set message to "Direct is '" & dObject & "'"
+if class of iObject is list then
+ -- user used the comma trick to add multiple objects to the indirect object (the third pane)
+set message to message & " indirect has " & (number of items in iObject) & " items:"
+repeat with i from 1 to number of items in iObject
+set message to message & return & tab & quote & (item i of iObject) & quote
+end repeat
+else if class of iObject is text then
+-- there is only one item in the third pane
+set message to message & " indirect is '" & iObject & "'"
+end if
+display dialog message buttons {"OK"} default button 1 end process text
 
-  on get argument count return 2 -- if you want the third pane to be filled, otherwise return 1 (or leave this handler out) end get argument count
+  on get argument count
+return 2
+-- if you want the third pane to be filled, otherwise return 1 (or leave this handler out)
+end get argument count
 
 end using terms from
-```
-
-#### Prior to Quicksilver β61
-
-**Process text in Quicksilver's first pane**
-
-```applesript
-using terms from application "Quicksilver"
-
-on process text the_text --Enter your code to work with the_text here. end process text
-
-end using terms from
-```
-
-**Process files or folders in Quicksilver's first pane**
-
-```applesript
-on open the\_items
-
-  --If only one file was selected in the first pane, the_items will be an alias to that file. --If the comma trick was used to select multiple files in Quicksilver's first pane, the_items will be a list of aliases   --Enter your code to work with the_items here.
-
-end open
 ```
