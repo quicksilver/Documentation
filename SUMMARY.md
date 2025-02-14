@@ -1,4 +1,4 @@
-# Table of contents
+## Main Guides
 
 * [Home](README.md)
 * [What Is Quicksilver?](What\_Is\_Quicksilver.md)
