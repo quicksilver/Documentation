@@ -10,7 +10,7 @@ robots across the room with your mind."
 At first glance, Quicksilver is a launcher.
 
 ![Quicksilver Command
-Window](images/_Quicksilver_splash.png "Quicksilver Command Window")
+Window](images/Quicksilver_splash.png "Quicksilver Command Window")
 
 When opened, it will create a catalog of applications and some
 frequently used folders and documents. Activate it, and you can search
