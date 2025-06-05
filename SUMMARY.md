@@ -19,6 +19,17 @@
 * [Tutorials](Tutorials.md)
 * [Quick Look](Quick\_Look.md)
 
+## Developer Instructions
+
+* [Building Quicksilver](Building\_Quicksilver.md)
+* [Debugging Quicksilver](Debugging\_Quicksilver.md)
+* [Release Process](Release\_Process.md)
+* [Localization](Localization.md)
+* [Quicksilver Server](Tech/Quicksilver\_Server.md)
+* [Developer Information](Developer\_Information.md)
+* [UnitTests](UnitTests.md)
+* [Plugins Template](Plugins\_Template.md)
+
 ## Plugins Overview
 
 * [Plugin Reference](Plugin\_Reference.md)
@@ -38,7 +49,6 @@
 * [AppleScript Action templates](AppleScript\_Action\_templates.md)
 * [AppleScript Actions](AppleScript\_Actions.md)
 * [Quicksilver Source Code](Application\_and\_Plugin\_Reference.md)
-* [Building Quicksilver](Building\_Quicksilver.md)
 * [Color Picker (AppleScript)](Color\_Picker\_\(AppleScript\).md)
 * [Combine PDFs (AppleScript)](Combine\_PDFs\_\(AppleScript\).md)
 * [Convert Units To](Convert\_Units\_To.md)
@@ -53,7 +63,6 @@
 * [Image Manipulation Actions](Image\_Manipulation\_Actions.md)
 * [Keyboard shortcuts](Keyboard\_shortcuts.md)
 * [Known Bad Applications](Known\_Bad\_Applications.md)
-* [Localization](Localization.md)
 * [List of Notifications](Notifications.md)
 * [Open AirDrop (AppleScript)](Open\_AirDrop\_\(AppleScript\).md)
 * [Opera Module](Opera\_Module.md)
@@ -87,11 +96,3 @@
 * [Unit Conversion Module](Unit\_Conversion\_Module.md)
 * [Encode/Decode URL (AppleScript)](Encode\_Decode\_URL\_\(AppleScript\).md)
 
-Developer Guides
-
-* [Release Process](Release\_Process.md)
-* [Quicksilver Server](Tech/Quicksilver\_Server.md)
-* [Debugging Quicksilver](Debugging\_Quicksilver.md)
-* [Developer Information](Developer\_Information.md)
-* [UnitTests](UnitTests.md)
-* [Plugins Template](Plugins\_Template.md)
