@@ -62,7 +62,10 @@ Transifex.
 Right now, you can generate for strings using the `genstrings` tool in
 Tools, or directly using `stringstool` and `ibtool`.
 
-For example, to generate strings for all xibs:
+1. To generate strings for an .m file, and add it to an existing file:
+`Quicksilver/Tools/stringstool --output-directory Quicksilver/Localized/en.lproj extract-mfiles Quicksilver/Code-App/QSUpdateController.m`
+
+2. To generate strings for all xibs:
 
 `find . ! -path '*/Code-External/*' ! -path '*/PlugIns-Main/*' -name "*.xib" -exec ./Tools/stringstool --output-directory Localized/en.lproj extract-interface-builder {} \;`
 
