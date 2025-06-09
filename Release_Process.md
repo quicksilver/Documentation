@@ -23,6 +23,7 @@ be taken.
 -   Edit the 'Release' automatically created by github to add any additional release notes
 -   Upload the .dmg to /qs0/plugins/admin/add.php along with the
     Info.plist (the Info.plist comes from within Quicksilver.app)
+    **NOTE: Make sure to tick the 'Application update' checkbox!**
 
 ## Final Releases
 
