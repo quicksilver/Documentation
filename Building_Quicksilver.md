@@ -41,6 +41,38 @@ builds until you start fresh again.
 You’re better off using the Debug configuration when doing “Run”, as it
 knows not to relaunch the app.
 
+### Avoiding Repetitive Permissions Popups
+
+Normally, every time you build QS, you will have deal with a pop-up requesting permissions for things like your contacts, calendars, full-disk access, etc.
+This is in part because every time the code changes, the resulting binary also changes, and so Xcode and Apple's codesigning treat it as potentially untrusted and a potential security risk.
+This becomes really tedious when doing development work; as a workaround, one can run a script to set up a local self-signed certificate and use this for signing, which remembers the permissions across different builds:
+
+```bash
+bash Quicksilver/Tools/codesign/setup_cert.sh
+```
+
+Every once in a while (perhaps after Xcode or macos updates), this process may break or give errors such as:
+
+```
+XXXX: no identity found
+Command CodeSign failed with a nonzero exit code
+```
+
+In this case, you may be able to get things working again by:
+
+1. Re-run the `setup_cert.sh` step from above
+1. `clean` the project within Xcode 
+1. Remove the QS temporary directory: `rm -rf /tmp/QS`
+1. Try building again
+
+For debugging, one can view the known certificates with:
+
+```bash
+security find-identity -p codesigning
+```
+
+The one named `Local Self-Signed` is the one produced by the script above.
+
 ### Signing for Gatekeeper
 
 Signing an application for Gatekeeper requires setting the Code Signing
