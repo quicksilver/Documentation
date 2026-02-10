@@ -1,3 +1,9 @@
+# ARCHIVED
+
+This repository has been deprecated and the files moved to https://github.com/quicksilver/manual/ in the `docs` and `developer/docs` folders. Any changes should be made there
+
+------
+
 # Home
 
 This wiki contains information on the Mac OS application Quıcĸsıɩⅴεʀ. Click the links below to get started, search, or even help expand the wiki by logging in and adding to it!
